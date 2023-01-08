@@ -1,0 +1,32 @@
+
+{
+   "format_version":2,
+   "header":{
+      "name":"Better hud",
+      "description":"§bBetter hud pack by§6 JndjanBartonka ",
+      "uuid":"12238347-0117-3012-a014-a1b2c3d4e5f6",
+      "platform_locked":false,
+      "min_engine_version":[
+         1,
+         16,
+         0
+      ],
+      "version":[
+         1,
+         0,
+         0
+      ]
+   },
+   "modules":[
+      {
+         "type":"resources",
+         "description":"§bBetter hud pack by§6 JndjanBartonka ",
+         "uuid":"12232017-0117-0012-a194-a1b2c3d4e5f6",
+         "version":[
+            10,
+            4,
+            0
+         ]
+      }
+   ]   
+}
